@@ -4,4 +4,3 @@ __pycache__/
 .idea/
 visual-novel-env/
 *.spec
-*.exe
