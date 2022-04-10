@@ -3,5 +3,5 @@ dist/
 __pycache__/
 .idea/
 visual-novel-env/
-.spec
-.exe
+*.spec
+*.exe
