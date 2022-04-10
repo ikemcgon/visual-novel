@@ -1,9 +1,0 @@
-SCENE:BeautifulDays.mp3:HopesPeak.jpg
-Makoto1.png:Makoto:hello Nagito from Danganronpa 2 Goodbye Despair
-Nagito1.png:Nagito:hello Makoto from Danganronpa Trigger Happy Havokc
-Makoto1.png:Makoto:...
-Nagito2.png:Nagito:Have you considered that despair is a stepping stone for hope?
-Makoto2.png:Makoto:HUH??
-Nagito3.png:Nagito:That's right, I yearn for a powerful hope that can overcome any kind of despair!
-Makoto2.png:Makoto:What the heck are you on about???
-Kyoko1.png:Kyoko:This was a bad test dialogue
