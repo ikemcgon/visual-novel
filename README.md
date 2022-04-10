@@ -22,4 +22,5 @@ Esc Key - Close the program
 ## Mid-Game
 ### Controls
 Enter Key - Progress to next frame
+
 Esc Key - Close the program. Creates a save state of your current progress (Save file location: data/save.csv)
