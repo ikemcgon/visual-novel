@@ -1,6 +1,6 @@
 SCENE:BeautifulDays.wav:HopesPeak.jpg
 Makoto1.png::Makoto:hello Nagito from Danganronpa 2 Goodbye Despair
-Nagito1.png::Nagito:hello Makoto from Danganronpa Trigger Happy Havokc
+Nagito1.png::Nagito:hello Makoto from Danganronpa Trigger Happy Havoc
 Makoto1.png::Makoto:...
 Nagito2.png:NagitoLaugh1.wav:Nagito:Have you considered that despair is a stepping stone for hope?
 Makoto2.png::Makoto:HUH??
