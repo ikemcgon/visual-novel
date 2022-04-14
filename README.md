@@ -1,8 +1,8 @@
 
 # Custom Visual Novel
 This is a little pet project by Isaac McGonagle. I hope you enjoy it :)  
-The contents are a simple visual novel written in Python that is entirely modular to support amateur production.
 
+Customizable visual novel engine to provide authors the capability to use words, images, and sounds to tell interactive stories. This engine was developed using Python3 using OpenCV and multiprocessing to concurrently display visuals and audio. The final product involves PyInstaller, which treats Python like a compiled language, in order to generate an easy to use executable (.exe) file.
 # How to play
 Download the contents to a directory of your choosing. Run the 'visual-novel.exe' to start the game.
 
@@ -30,11 +30,11 @@ The script is the primary source document for controlling the visual novel. It t
 Each line of the text file contains a definition for either a *scene* or a *frame*. A scene definition contains information about the background and *must* precede the frames that will utilize it. A frame definition depicts the content in the foreground such as the speaking character, their name, and the text that they are speaking.   
 Below are templates, followed by a demonstration:   
 **Scene Definition**      
-> SCENE:backGroundMusic:backGroundImage
+> SCENE:backGroundMusic:backGroundImage   
 > SCENE:BeautifulDays.wav:HopesPeak.jpg
 
 **Frame Definition**   
-> foreGroundImage:voiceClip:speakerName:displayText
+> foreGroundImage:voiceClip:speakerName:displayText   
 > Nagito2.png:NagitoLaugh1.wav:Nagito:Have you considered that despair is a stepping stone for hope?
 
 Script Location: *data/script.txt*   
