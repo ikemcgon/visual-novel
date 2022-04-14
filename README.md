@@ -1,5 +1,5 @@
 
-# Custom Visual Novel
+# Customizeable Visual Novel Engine
 This is a little pet project by Isaac McGonagle. I hope you enjoy it :)  
 
 Customizable visual novel engine to provide authors the capability to use words, images, and sounds to tell interactive stories. This engine was developed using Python3 using OpenCV and multiprocessing to concurrently display visuals and audio. The final product involves PyInstaller, which treats Python like a compiled language, in order to generate an easy to use executable (.exe) file.
